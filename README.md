@@ -23,5 +23,5 @@ An interactive weather dashboard built using Python and Dash that allows users t
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/weather-dashboard.git
-cd weather-dashboard
+git clone https://github.com/HeebaShaikh0705/WebDashApp.git
+cd WebDashApp
