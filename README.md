@@ -10,7 +10,7 @@ An interactive weather dashboard built using Python and Dash that allows users t
 - Clean, responsive layout with basic error handling
 
 ## 📸 Demo
-![Demo Screenshot](screenshot.png)  <!-- Add a screenshot of your running app -->
+![Demo Screenshot](sc1.png)  <!-- Add a screenshot of your running app -->
 
 ## 🛠️ Tech Stack
 - Python
